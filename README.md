@@ -1,5 +1,4 @@
-# Second-Assignment A
-// this is the answer this is my answer to the first activity //
+
 #include <stdio.h>
 
 int main()
